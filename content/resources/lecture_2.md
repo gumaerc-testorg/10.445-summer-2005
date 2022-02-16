@@ -6,8 +6,13 @@ description: This resource provides information about the topics such as challen
   by fermentation, flow diagram for E. coli, fermentation process development, strategies
   for media design, raw material selection, overview of media design and finally discussion
   points.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-445-separation-processes-for-biochemical-products-summer-2005/c81208bbe8bc4e595ae13df93babc8e4_lecture_2.pdf
+file: /media/courses/10-445-separation-processes-for-biochemical-products-summer-2005/c81208bbe8bc4e595ae13df93babc8e4_lecture_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_2.pdf
 uid: c81208bb-e8bc-4e59-5ae1-3df93babc8e4

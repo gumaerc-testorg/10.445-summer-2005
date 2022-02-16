@@ -4,8 +4,13 @@ description: This resource provides information about the topics such as methods
   disruption, comments on cell disruption by liquid shear, comments on cell disruption
   by solid shear, non-mechanical cell disruption and comments on cell disruption by
   non-mechanical methods.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-445-separation-processes-for-biochemical-products-summer-2005/9f4a99c6be0c5cf3e21995ca0e2c5180_lecture_3.pdf
+file: /media/courses/10-445-separation-processes-for-biochemical-products-summer-2005/9f4a99c6be0c5cf3e21995ca0e2c5180_lecture_3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_3.pdf
 uid: 9f4a99c6-be0c-5cf3-e219-95ca0e2c5180
