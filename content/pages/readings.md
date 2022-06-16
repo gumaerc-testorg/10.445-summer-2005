@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The readings section contains list of reading materials as per the topics.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -305,7 +306,7 @@ Case Study in Innovation
 {{< tdopen >}}
 
 
-Bioprocess Design and Simulation Handout ([PDF]({{< baseurl >}}/resources/bioproces_design)) (Courtesy of Steve Griffiths, PhD. Used with permission.)
+Bioprocess Design and Simulation Handout ({{% resource_link 0dca0180-7bd7-b4a7-b696-f7b15bcab434 "PDF" %}}) (Courtesy of Steve Griffiths, PhD. Used with permission.)
 
 _Insulin Case Study  
 _  
