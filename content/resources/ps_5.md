@@ -7,6 +7,7 @@ file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ps_5.pdf
 uid: 55e8ee67-b4e1-fbc7-bbc2-024be0c6297a
 ---
 This resource is problem set 5 and contains 2 problem sets on countercurrent extraction process and extraction of recombinant protein  using a biospecific ligand that attaches to polyethylene glycol (PEG)
-

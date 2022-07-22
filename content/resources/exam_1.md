@@ -6,6 +6,7 @@ file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: exam_1.pdf
 uid: 411a4ed6-c4fe-d4d8-a7cc-c20405eeee4e
 ---
 This resource lists 3 problems related to cell disruption, centrifugation and chromatography and is exam 1 file for users.
-

@@ -6,6 +6,7 @@ file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps_2.pdf
 uid: da2d0564-9e25-c42a-c4cd-7b53ddfd2e00
 ---
 This resource is problem set 2 and contains 2 problem sets on centrifugation and E. coli.
-

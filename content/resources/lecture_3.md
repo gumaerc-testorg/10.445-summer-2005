@@ -8,6 +8,7 @@ file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lecture_3.pdf
 uid: 9f4a99c6-be0c-5cf3-e219-95ca0e2c5180
 ---
 This resource provides information about the topics such as methods of disruption, comments on cell disruption by liquid shear, comments on cell disruption by solid shear, non-mechanical cell disruption and comments on cell disruption by non-mechanical methods.
-

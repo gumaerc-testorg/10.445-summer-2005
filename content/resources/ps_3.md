@@ -6,6 +6,7 @@ file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps_3.pdf
 uid: b48c53aa-5459-3bff-6844-bf0ea40ccaa5
 ---
 This resource is problem set 3 and contains 4 problem sets on chromatography column, Immunoglobulin G, chromatogram and ion exchange chromatography.
-

@@ -5,6 +5,7 @@ file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: bioproces_design.pdf
 uid: 0dca0180-7bd7-b4a7-b696-f7b15bcab434
 ---
 This resource is a handout which describes bioprocess design and simulation.
-

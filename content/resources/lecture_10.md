@@ -8,6 +8,7 @@ file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lecture_10.pdf
 uid: 6f35d4dd-7592-65a6-f949-e98ccb348eb5
 ---
 This resource provides information about the topics such as process design, process synthesis and process analysis, steps in process design, process simulation dusring process design, case studies, objectives, estimation of capital investment, estimation operating cost and uncertainty analysis.
-

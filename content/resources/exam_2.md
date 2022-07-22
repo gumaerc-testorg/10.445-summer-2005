@@ -6,6 +6,7 @@ file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: exam_2.pdf
 uid: aa2b331e-af15-8b3d-984e-80dfd03a2ec4
 ---
 This resource lists 2 problems related to membrane filtration and is exam 2 file for users.
-
