@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is problem set 3 and contains 4 problem sets on chromatography
   column, Immunoglobulin G, chromatogram and ion exchange chromatography.
 file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/b48c53aa54593bff6844bf0ea40ccaa5_ps_3.pdf
+file_size: 140490
 file_type: application/pdf
 learning_resource_types:
 - Assignments
