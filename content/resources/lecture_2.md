@@ -7,6 +7,7 @@ description: This resource provides information about the topics such as challen
   for media design, raw material selection, overview of media design and finally discussion
   points.
 file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/c81208bbe8bc4e595ae13df93babc8e4_lecture_2.pdf
+file_size: 335352
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
