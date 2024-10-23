@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is problem set 2 and contains 2 problem sets on centrifugation
   and E. coli.
-file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/da2d05649e25c42ac4cd7b53ddfd2e00_ps_2.pdf
+file: /ol-ocw-studio-app/courses/10-445-separation-processes-for-biochemical-products-summer-2005/da2d05649e25c42ac4cd7b53ddfd2e00_ps_2.pdf
 file_size: 102266
 file_type: application/pdf
 learning_resource_types:
