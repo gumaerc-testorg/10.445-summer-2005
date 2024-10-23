@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource lists 3 problems related to cell disruption, centrifugation
   and chromatography and is exam 1 file for users.
-file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/411a4ed6c4fed4d8a7ccc20405eeee4e_exam_1.pdf
+file: /ol-ocw-studio-app/courses/10-445-separation-processes-for-biochemical-products-summer-2005/411a4ed6c4fed4d8a7ccc20405eeee4e_exam_1.pdf
 file_size: 123229
 file_type: application/pdf
 learning_resource_types:
