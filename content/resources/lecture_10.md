@@ -4,7 +4,7 @@ description: This resource provides information about the topics such as process
   process synthesis and process analysis, steps in process design, process simulation
   dusring process design, case studies, objectives, estimation of capital investment,
   estimation operating cost and uncertainty analysis.
-file: /ol-ocw-studio-app/courses/10-445-separation-processes-for-biochemical-products-summer-2005/6f35d4dd759265a6f949e98ccb348eb5_lecture_10.pdf
+file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/6f35d4dd759265a6f949e98ccb348eb5_lecture_10.pdf
 file_size: 432422
 file_type: application/pdf
 learning_resource_types:

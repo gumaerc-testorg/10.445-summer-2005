@@ -4,7 +4,7 @@ description: This resource provides information about the topics such as use of 
   in downstream processing, disc-stack centrifuge configuration, implications of stoke?s
   law, comparison of sedimentation in a tank and centrifuge, sedimentation velocity,
   process objectives and process flow diagram for BTPX 205.
-file: /ol-ocw-studio-app/courses/10-445-separation-processes-for-biochemical-products-summer-2005/c462dea1243e90bd4b2d5dd2e8dc51e3_lecture_4.pdf
+file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/c462dea1243e90bd4b2d5dd2e8dc51e3_lecture_4.pdf
 file_size: 209774
 file_type: application/pdf
 learning_resource_types:
