@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about the topics such as filtration
   theory, rotary vacuum filter and mechanism of flocculation.
-file: /ol-ocw-studio-app/courses/10-445-separation-processes-for-biochemical-products-summer-2005/a2f55fd05608ed9a86152fb8d3f9da0a_lecture_9.pdf
+file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/a2f55fd05608ed9a86152fb8d3f9da0a_lecture_9.pdf
 file_size: 160875
 file_type: application/pdf
 learning_resource_types:

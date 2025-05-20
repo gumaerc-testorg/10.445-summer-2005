@@ -5,7 +5,7 @@ description: This resource provides information about the topics such as membran
   process, steady-state connective-transport, combined diffusive connective-transport,
   regimes of cross flow filtration, fouling and concentration polarization, mass transfer
   model for membrane filtration and cell harvesting.
-file: /ol-ocw-studio-app/courses/10-445-separation-processes-for-biochemical-products-summer-2005/45a0af3544f9066f4b4abe64b1beeabd_lecture_7_cooney.pdf
+file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/45a0af3544f9066f4b4abe64b1beeabd_lecture_7_cooney.pdf
 file_size: 321003
 file_type: application/pdf
 learning_resource_types:
