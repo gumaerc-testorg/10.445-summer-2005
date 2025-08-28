@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a handout which describes bioprocess design and simulation.
-file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/0dca01807bd7b4a7b696f7b15bcab434_bioproces_design.pdf
+file: /ol-ocw-studio-app/courses/10-445-separation-processes-for-biochemical-products-summer-2005/0dca01807bd7b4a7b696f7b15bcab434_bioproces_design.pdf
 file_size: 75810
 file_type: application/pdf
 learning_resource_types:
