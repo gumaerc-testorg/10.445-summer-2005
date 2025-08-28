@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource lists 2 problems related to membrane filtration and is
   exam 2 file for users.
-file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/aa2b331eaf158b3d984e80dfd03a2ec4_exam_2.pdf
+file: /ol-ocw-studio-app/courses/10-445-separation-processes-for-biochemical-products-summer-2005/aa2b331eaf158b3d984e80dfd03a2ec4_exam_2.pdf
 file_size: 88245
 file_type: application/pdf
 learning_resource_types:
